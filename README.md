@@ -1,7 +1,7 @@
 # Success and Luck: Good Fortune and the Myth of Meritocracy
 
 
-![Sample Image](./assets/cover.jpg)
+![Cover](./assets/cover.jpg)
 
 
 재능과 노력이라는 요소는 정말 중요하다. 하지만 가장 커다란 보상을 차지하기 위한 사회적 경쟁이 너무나 격렬한 우리 시대에 재능과 노력만으로 승리를 보장할 수 있는 경우는 드물다. 오히려 거의 모든 경우에 상당한 행운이 필요하다.
